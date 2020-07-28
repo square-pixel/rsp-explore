@@ -1,0 +1,16 @@
+{
+  "name": "rsp-explore",
+  "version": "0.1.0",
+  "description": "react-spectrum exploration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adobe/react-spectrum": "^3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
